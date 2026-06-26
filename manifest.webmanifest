@@ -1,0 +1,20 @@
+{
+  "name": "Kyanna&Vein",
+  "short_name": "Kyanna&Vein",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F4F6",
+  "theme_color": "#A8E6CF",
+  "icons": [
+    {
+      "src": "/7E98F952-E863-4ED8-A254-CCAD7AD1F898.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/7E98F952-E863-4ED8-A254-CCAD7AD1F898.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
